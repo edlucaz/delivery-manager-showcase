@@ -28,6 +28,54 @@
 
 ---
 
+## 🌟 Demo ao Vivo
+
+<div align="center">
+
+### 🚀 **[Acessar Demo ao Vivo → delivery-manager-pbsj.onrender.com](https://delivery-manager-pbsj.onrender.com/)**
+
+</div>
+
+### 🔓 Como Acessar
+
+#### 👥 **Área do Cliente** (🚧 Em Desenvolvimento)
+A vitrine pública para clientes está atualmente em desenvolvimento.
+
+#### 🔒 **Área Administrativa** (Disponível Agora)
+
+1. **Acesse:** [https://delivery-manager-pbsj.onrender.com/](https://delivery-manager-pbsj.onrender.com/)
+2. **Encontre o ícone de cadeado** (🔒) no rodapé da página
+3. **Clique no cadeado** para acessar a página de autenticação
+4. **Faça login** com suas credenciais
+
+> ⚠️ **Nota:** O acesso administrativo requer credenciais. Entre em contato para acesso demo.
+
+### 📸 Screenshots
+
+<!-- TODO: Adicionar screenshots aqui -->
+<!-- Imagens recomendadas: -->
+<!-- 1. Homepage/Landing page -->
+<!-- 2. Dashboard Administrativo -->
+<!-- 3. Interface de Gestão de Pedidos -->
+<!-- 4. Gestão de Cardápio -->
+<!-- 5. CRM de Clientes -->
+<!-- 6. Relatórios Financeiros -->
+<!-- 7. Notificações em Tempo Real -->
+
+```
+📌 PARA ADICIONAR: Coloque screenshots na pasta /screenshots/
+Formato: screenshots/01-homepage.png, 02-dashboard.png, etc.
+
+Exemplo de markdown:
+![Homepage](screenshots/01-homepage.png)
+*Homepage com a marca do restaurante*
+
+![Dashboard Admin](screenshots/02-dashboard.png)
+*Painel administrativo com métricas em tempo real*
+```
+
+---
+
 ## 🚨 Sobre Este Repositório
 
 Este é um **showcase de portfólio** da plataforma SaaS Delivery Manager - uma solução completa para gestão de delivery e restaurantes.
@@ -45,6 +93,7 @@ Este é um **showcase de portfólio** da plataforma SaaS Delivery Manager - uma 
 - ✅ Screenshots e demonstrações
 - ✅ Especificações técnicas
 - ✅ Roadmap do projeto
+- ✅ Acesso à demo ao vivo
 
 ### 💬 Interessado no código?
 
@@ -60,6 +109,13 @@ Este é um **showcase de portfólio** da plataforma SaaS Delivery Manager - uma 
 
 Delivery Manager é uma **plataforma SaaS de nível empresarial** construída com Django para gestão completa de operações de delivery e restaurantes. Projetada com escalabilidade, performance e experiência do usuário em mente.
 
+<!-- TODO: Adicionar diagrama de visão geral/arquitetura aqui -->
+```
+📌 PARA ADICIONAR: Diagrama de visão geral do sistema
+Arquivo: screenshots/architecture-overview.png
+Mostrando: Fluxo Cliente → Servidor → Banco de Dados
+```
+
 ### 🏆 Destaques Principais
 
 - 📊 **Arquitetura de Nível Empresarial** - Design escalável pronto para microsserviços
@@ -73,6 +129,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 ## ✨ Funcionalidades Principais
 
 ### 💸 Sistema de Gestão de Pedidos
+
+<!-- TODO: Adicionar screenshot de gestão de pedidos -->
+```
+📌 PARA ADICIONAR: Interface de gestão de pedidos
+Arquivo: screenshots/feature-orders.png
+```
+
 - Rastreamento de pedidos em tempo real e atualizações de status
 - Integração multicanal de pedidos (web, telefone, marketplace)
 - Histórico e análise de pedidos
@@ -81,6 +144,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Impressão de pedidos e sistema de display para cozinha (KDS)
 
 ### 🍔 Gestão de Cardápio Digital
+
+<!-- TODO: Adicionar screenshot de gestão de cardápio -->
+```
+📌 PARA ADICIONAR: Interface de cardápio/catálogo de produtos
+Arquivo: screenshots/feature-menu.png
+```
+
 - Estrutura flexível de categorias e produtos
 - Variações de produtos (tamanho, extras, personalizações)
 - Galeria de imagens para produtos
@@ -89,6 +159,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Agendamento de cardápio (café da manhã, almoço, jantar)
 
 ### 👥 Sistema de CRM de Clientes
+
+<!-- TODO: Adicionar screenshot de CRM -->
+```
+📌 PARA ADICIONAR: Interface de gestão de clientes
+Arquivo: screenshots/feature-crm.png
+```
+
 - Perfis completos de clientes
 - Múltiplos endereços de entrega por cliente
 - Histórico de pedidos e preferências
@@ -97,6 +174,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Ferramentas de comunicação com clientes
 
 ### 📊 Controle Financeiro
+
+<!-- TODO: Adicionar screenshot de dashboard financeiro -->
+```
+📌 PARA ADICIONAR: Relatórios/dashboard financeiro
+Arquivo: screenshots/feature-finance.png
+```
+
 - Rastreamento de receitas e despesas
 - Relatórios financeiros diários, semanais, mensais
 - Gestão de métodos de pagamento
@@ -105,6 +189,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Exportação para software de contabilidade
 
 ### 🪑 Gestão de Mesas
+
+<!-- TODO: Adicionar screenshot de gestão de mesas -->
+```
+📌 PARA ADICIONAR: Interface de mesas/reservas
+Arquivo: screenshots/feature-tables.png
+```
+
 - Mapa interativo de mesas
 - Sistema de reservas
 - Gestão de comandas
@@ -113,6 +204,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Status de mesa em tempo real
 
 ### 📊 Analytics e Relatórios
+
+<!-- TODO: Adicionar screenshot de dashboard de analytics -->
+```
+📌 PARA ADICIONAR: Dashboard de analytics com gráficos
+Arquivo: screenshots/feature-analytics.png
+```
+
 - Dashboards interativos com Chart.js
 - Vendas por período, produto, categoria
 - Análise de comportamento do cliente
@@ -121,6 +219,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Relatórios exportáveis (PDF, Excel)
 
 ### 🔔 Notificações em Tempo Real
+
+<!-- TODO: Adicionar screenshot de notificações -->
+```
+📌 PARA ADICIONAR: Sistema de notificações em ação
+Arquivo: screenshots/feature-notifications.png
+```
+
 - Atualizações instantâneas baseadas em WebSocket
 - Push notifications para novos pedidos
 - Alertas para cozinha
@@ -128,6 +233,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Notificações do sistema
 
 ### 📱 Interface Responsiva
+
+<!-- TODO: Adicionar screenshots de design responsivo -->
+```
+📌 PARA ADICIONAR: Visões Desktop + Mobile lado a lado
+Arquivo: screenshots/feature-responsive.png
+```
+
 - Design mobile-first
 - Funciona em desktop, tablet e mobile
 - Capacidades de Progressive Web App (PWA)
@@ -135,6 +247,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Funcionalidade offline (planejada)
 
 ### 🔐 Autenticação Segura
+
+<!-- TODO: Adicionar screenshot de login/segurança -->
+```
+📌 PARA ADICIONAR: Página de login ou recursos de segurança
+Arquivo: screenshots/feature-auth.png
+```
+
 - Autenticação baseada em JWT
 - Controle de acesso baseado em funções (RBAC)
 - Sistema de permissões para diferentes tipos de usuário
@@ -142,6 +261,13 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 - Autenticação de dois fatores (planejado)
 
 ### 🔌 API REST
+
+<!-- TODO: Adicionar screenshot de documentação da API -->
+```
+📌 PARA ADICIONAR: Docs da API (Swagger/DRF Spectacular)
+Arquivo: screenshots/feature-api.png
+```
+
 - API RESTful completa
 - Documentação da API com DRF Spectacular
 - Autenticação por token
@@ -183,6 +309,7 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
 | **Docker** | Containerização |
 | **Docker Compose** | Orquestração multi-container |
 | **Nginx** | Reverse proxy & arquivos estáticos |
+| **Render** | Plataforma de deploy em nuvem |
 | **GitHub Actions** | Pipeline CI/CD |
 | **pytest** | Framework de testes |
 | **pytest-django** | Utilitários de teste Django |
@@ -227,12 +354,20 @@ Delivery Manager é uma **plataforma SaaS de nível empresarial** construída co
           │               │               │
 ┌─────────┴─────────┐  ┌─────┴──────┐  ┌─────┴──────┐
 │   POSTGRESQL    │  │   REDIS   │  │  STORAGE  │
+│   (Render)      │  │  (Render) │  │ (Render) │
 │                 │  │           │  │          │
 │ • Pedidos       │  │ • Cache   │  │ • Imagens │
 │ • Produtos      │  │• Sessões  │  │ • Docs    │
 │ • Clientes      │  │ • Celery  │  │ • Uploads │
 │ • Finanças      │  │   Broker  │  │          │
 └───────────────────┘  └───────────┘  └───────────┘
+```
+
+<!-- TODO: Adicionar diagrama de arquitetura detalhado -->
+```
+📌 PARA ADICIONAR: Diagrama visual de arquitetura
+Arquivo: screenshots/architecture-detailed.png
+Sugestão de ferramenta: draw.io, Lucidchart ou Excalidraw
 ```
 
 ### Estrutura de Apps Django
@@ -310,9 +445,11 @@ delivery_manager/
 - [x] Suíte de testes automatizados (85% de cobertura)
 - [x] Setup de deploy com Docker
 - [x] Pipeline CI/CD com GitHub Actions
+- [x] Deploy em produção no Render
 
 ### 🚧 Em Progresso (v1.5)
 
+- [ ] Desenvolvimento da área do cliente (storefront)
 - [ ] Dashboard de analytics aprimorado
 - [ ] Programa de fidelidade de clientes
 - [ ] Gestão avançada de inventário
@@ -425,12 +562,14 @@ git commit -m "docs(api): atualiza documentação de endpoints"
 - **Aplicação real** resolvendo problemas reais de restaurantes
 - **Modelo SaaS escalável** com potencial multi-tenant
 - **Viabilidade comercial** como produto Next Change
+- **Deploy em produção ao vivo** no Render
 
 ### 🛠️ Excelência Técnica
 - **Arquitetura limpa** seguindo princípios SOLID
 - **Pronto para produção** com Docker, CI/CD, monitoramento
 - **Bem testado** com 85%+ de cobertura
 - **Stack moderno** usando melhores práticas da indústria
+- **Deploy em nuvem** com práticas DevOps adequadas
 
 ### 📈 Desenvolvimento Profissional
 - **SDLC completo** de requisitos até deploy
@@ -489,5 +628,7 @@ Se este projeto te interessou ou demonstra habilidades valiosas, por favor **dê
 **Construído com ❤️ usando Django | Desenvolvimento SaaS Profissional**
 
 *Demonstrando capacidades de desenvolvimento Python/Django de nível empresarial*
+
+**🚀 [Experimente a Demo ao Vivo](https://delivery-manager-pbsj.onrender.com/)**
 
 </div>
