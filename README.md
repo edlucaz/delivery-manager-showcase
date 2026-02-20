@@ -28,6 +28,54 @@
 
 ---
 
+## 🌟 Live Demo
+
+<div align="center">
+
+### 🚀 **[Access Live Demo → delivery-manager-pbsj.onrender.com](https://delivery-manager-pbsj.onrender.com/)**
+
+</div>
+
+### 🔓 How to Access
+
+#### 👥 **Customer Area** (🚧 In Development)
+The public storefront for customers is currently under development.
+
+#### 🔒 **Admin Area** (Available Now)
+
+1. **Go to:** [https://delivery-manager-pbsj.onrender.com/](https://delivery-manager-pbsj.onrender.com/)
+2. **Find the lock icon** (🔒) in the footer of the page
+3. **Click the lock** to access the authentication page
+4. **Login** with your credentials
+
+> ⚠️ **Note:** Admin access requires credentials. Contact for demo access.
+
+### 📸 Screenshots
+
+<!-- TODO: Add screenshots here -->
+<!-- Recommended images: -->
+<!-- 1. Homepage/Landing page -->
+<!-- 2. Admin Dashboard -->
+<!-- 3. Order Management Interface -->
+<!-- 4. Menu Management -->
+<!-- 5. Customer CRM -->
+<!-- 6. Financial Reports -->
+<!-- 7. Real-time Notifications -->
+
+```
+📌 TO ADD: Place screenshots in /screenshots/ folder
+Format: screenshots/01-homepage.png, 02-dashboard.png, etc.
+
+Example markdown:
+![Homepage](screenshots/01-homepage.png)
+*Homepage with restaurant branding*
+
+![Admin Dashboard](screenshots/02-dashboard.png)
+*Administrative dashboard with real-time metrics*
+```
+
+---
+
 ## 🚨 About This Repository
 
 This is a **portfolio showcase** of the Delivery Manager SaaS platform - a complete solution for delivery and restaurant management.
@@ -45,6 +93,7 @@ This is a **portfolio showcase** of the Delivery Manager SaaS platform - a compl
 - ✅ Screenshots and demonstrations
 - ✅ Technical specifications
 - ✅ Project roadmap
+- ✅ Live demo access
 
 ### 💬 Interested in the code?
 
@@ -60,6 +109,13 @@ This is a **portfolio showcase** of the Delivery Manager SaaS platform - a compl
 
 Delivery Manager is a **professional-grade SaaS platform** built with Django for complete delivery and restaurant operations management. Designed with scalability, performance, and user experience in mind.
 
+<!-- TODO: Add overview/architecture diagram here -->
+```
+📌 TO ADD: System overview diagram
+File: screenshots/architecture-overview.png
+Showing: Client → Server → Database flow
+```
+
 ### 🏆 Key Highlights
 
 - 📊 **Enterprise-Level Architecture** - Scalable microservices-ready design
@@ -73,6 +129,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 ## ✨ Core Features
 
 ### 💸 Order Management System
+
+<!-- TODO: Add order management screenshot -->
+```
+📌 TO ADD: Order management interface
+File: screenshots/feature-orders.png
+```
+
 - Real-time order tracking and status updates
 - Multi-channel order integration (web, phone, marketplace)
 - Order history and analytics
@@ -81,6 +144,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - Order printing and kitchen display system (KDS)
 
 ### 🍔 Digital Menu Management
+
+<!-- TODO: Add menu management screenshot -->
+```
+📌 TO ADD: Menu/product catalog interface
+File: screenshots/feature-menu.png
+```
+
 - Flexible category and product structure
 - Product variations (size, extras, customizations)
 - Image gallery for products
@@ -89,6 +159,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - Menu scheduling (breakfast, lunch, dinner menus)
 
 ### 👥 Customer Relationship Management (CRM)
+
+<!-- TODO: Add CRM screenshot -->
+```
+📌 TO ADD: Customer management interface
+File: screenshots/feature-crm.png
+```
+
 - Complete customer profiles
 - Multiple delivery addresses per customer
 - Order history and preferences
@@ -97,6 +174,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - Customer communication tools
 
 ### 📊 Financial Control
+
+<!-- TODO: Add financial dashboard screenshot -->
+```
+📌 TO ADD: Financial reports/dashboard
+File: screenshots/feature-finance.png
+```
+
 - Revenue and expense tracking
 - Daily, weekly, monthly financial reports
 - Payment method management
@@ -105,6 +189,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - Export to accounting software
 
 ### 🪑 Table Management
+
+<!-- TODO: Add table management screenshot -->
+```
+📌 TO ADD: Table/reservation interface
+File: screenshots/feature-tables.png
+```
+
 - Interactive table map
 - Reservation system
 - Tab ("comanda") management
@@ -113,6 +204,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - Real-time table status
 
 ### 📊 Analytics & Reports
+
+<!-- TODO: Add analytics dashboard screenshot -->
+```
+📌 TO ADD: Analytics dashboard with charts
+File: screenshots/feature-analytics.png
+```
+
 - Interactive dashboards with Chart.js
 - Sales by period, product, category
 - Customer behavior analysis
@@ -121,6 +219,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - Exportable reports (PDF, Excel)
 
 ### 🔔 Real-Time Notifications
+
+<!-- TODO: Add notifications screenshot -->
+```
+📌 TO ADD: Notification system in action
+File: screenshots/feature-notifications.png
+```
+
 - WebSocket-based instant updates
 - Push notifications for new orders
 - Kitchen alerts
@@ -128,6 +233,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - System notifications
 
 ### 📱 Responsive Interface
+
+<!-- TODO: Add responsive design screenshots -->
+```
+📌 TO ADD: Desktop + Mobile views side-by-side
+File: screenshots/feature-responsive.png
+```
+
 - Mobile-first design approach
 - Works on desktop, tablet, and mobile
 - Progressive Web App (PWA) capabilities
@@ -135,6 +247,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - Offline functionality (planned)
 
 ### 🔐 Secure Authentication
+
+<!-- TODO: Add login/security screenshot -->
+```
+📌 TO ADD: Login page or security features
+File: screenshots/feature-auth.png
+```
+
 - JWT-based authentication
 - Role-based access control (RBAC)
 - Permission system for different user types
@@ -142,6 +261,13 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 - Two-factor authentication (planned)
 
 ### 🔌 REST API
+
+<!-- TODO: Add API documentation screenshot -->
+```
+📌 TO ADD: API docs (Swagger/DRF Spectacular)
+File: screenshots/feature-api.png
+```
+
 - Complete RESTful API
 - API documentation with DRF Spectacular
 - Token authentication
@@ -183,6 +309,7 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
 | **Docker** | Containerization |
 | **Docker Compose** | Multi-container orchestration |
 | **Nginx** | Reverse proxy & static files |
+| **Render** | Cloud deployment platform |
 | **GitHub Actions** | CI/CD pipeline |
 | **pytest** | Testing framework |
 | **pytest-django** | Django testing utilities |
@@ -227,12 +354,20 @@ Delivery Manager is a **professional-grade SaaS platform** built with Django for
           │               │               │
 ┌─────────┴─────────┐  ┌─────┴──────┐  ┌─────┴──────┐
 │   POSTGRESQL    │  │   REDIS   │  │  STORAGE  │
+│   (Render)      │  │  (Render) │  │ (Render) │
 │                 │  │           │  │          │
 │ • Orders        │  │ • Cache   │  │ • Images  │
 │ • Products      │  │ • Sessions│  │ • Docs    │
 │ • Customers     │  │ • Celery  │  │ • Uploads │
 │ • Finances      │  │   Broker  │  │          │
 └───────────────────┘  └───────────┘  └───────────┘
+```
+
+<!-- TODO: Add detailed architecture diagram -->
+```
+📌 TO ADD: Visual architecture diagram
+File: screenshots/architecture-detailed.png
+Tool suggestion: draw.io, Lucidchart, or Excalidraw
 ```
 
 ### Django Apps Structure
@@ -310,9 +445,11 @@ delivery_manager/
 - [x] Automated testing suite (85% coverage)
 - [x] Docker deployment setup
 - [x] CI/CD pipeline with GitHub Actions
+- [x] Production deployment on Render
 
 ### 🚧 In Progress (v1.5)
 
+- [ ] Customer area (storefront) development
 - [ ] Enhanced analytics dashboard
 - [ ] Customer loyalty program
 - [ ] Advanced inventory management
@@ -425,12 +562,14 @@ git commit -m "docs(api): update endpoint documentation"
 - **Real-world application** solving actual restaurant pain points
 - **Scalable SaaS model** with multi-tenant potential
 - **Commercial viability** as Next Change product
+- **Live production deployment** on Render
 
 ### 🛠️ Technical Excellence
 - **Clean architecture** following SOLID principles
 - **Production-ready** with Docker, CI/CD, monitoring
 - **Well-tested** with 85%+ coverage
 - **Modern stack** using industry best practices
+- **Cloud deployment** with proper DevOps practices
 
 ### 📈 Professional Development
 - **Complete SDLC** from requirements to deployment
@@ -489,5 +628,7 @@ If this project interests you or demonstrates valuable skills, please **star thi
 **Built with ❤️ using Django | Professional SaaS Development**
 
 *Showcasing enterprise-level Python/Django development capabilities*
+
+**🚀 [Try the Live Demo](https://delivery-manager-pbsj.onrender.com/)**
 
 </div>
